@@ -1,0 +1,5 @@
+fox
+wolf
+bear
+cat
+dog
