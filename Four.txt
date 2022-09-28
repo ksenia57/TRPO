@@ -1,6 +1,5 @@
 fox
 wolf
-bear
+fish
 cat
-dog
 you
